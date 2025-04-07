@@ -10,3 +10,17 @@ Features:
 - There will be also tracking of commings, leaving etc with the QR code
 - Option for creating reports
   
+Features:
+- it will be web based solution with oracle back-end
+- one database per gym
+- on the page they log in and will be able to add (insert), change(update), or remove(delete) things
+  - this will trigger API that will call PLSQL and we will do the change in DB and display the result
+- Main features:
+  - Meambership - creation, editing, deletion, arrivals, informations
+  - Bookings - managing bookings for the class or for the gym?
+  - Billing - automatic machting payments
+  - Reporting
+  - Attendence
+  - Inventory listings
+  - Employee management
+  - Facility access and information
